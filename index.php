@@ -46,7 +46,7 @@ session_start();
 </head>
 <body>
     <div class="login-box">
-        <h2>🏫 النيابة الإقليمية لوزارة التربية الوطنية</h2>
+        <h2> النيابة الإقليمية لوزارة التربية الوطنية</h2>
         <h3>نظام تدبير الامتحانات</h3>
         <form method="POST">
             <input type="text" name="username" placeholder="اسم المستخدم" required>
